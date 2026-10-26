@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\SchedulingModularMonolith.BuildingBlocks.Application\SchedulingModularMonolith.BuildingBlocks.Application.csproj" />
+  </ItemGroup>
+</Project>
